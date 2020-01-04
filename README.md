@@ -1,1 +1,1 @@
-# Welcome! I created this repository to track my initial progress in learning Python. I started learning Python on December 29th, 2019. This work represents my progress through January 31st, 2020. I hope you enjoy
+# Welcome! I created this repository to track my initial progress in learning Python. I started learning Python on December 29th, 2019. This repository covers my progress through January 31st, 2020. I hope you enjoy!
