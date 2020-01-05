@@ -1,3 +1,5 @@
+#Prompts the user to input a file. Identifies the 10 most common words in the file and their respective frequency.  
+#Prints these top 10 most common words in descending order.
 name = input("Enter file:")
 handle = open(name)
 counts=dict()
