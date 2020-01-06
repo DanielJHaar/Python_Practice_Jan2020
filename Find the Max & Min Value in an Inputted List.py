@@ -8,7 +8,7 @@ while True :
 	if inp == 'done' :
 		break
 	try:
-		fval = int(inp)
+		fval = float(inp)
 		numlist.append(fval)
 	except:
 		print('Invalid input')
