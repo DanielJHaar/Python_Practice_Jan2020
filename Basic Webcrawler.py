@@ -2,8 +2,7 @@
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
 
-#Python requests to connec to webpage, and BeautifulSoup cleans up HTML code for
-#more accurate parsing
+#Python requests to connec to webpage, and BeautifulSoup cleans up HTML code for more accurate parsing
 url = input('Enter - ')
 html = urllib.request.urlopen(url).read()
 soup = BeautifulSoup(html, 'html.parser')
