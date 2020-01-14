@@ -1,3 +1,5 @@
+#Parses a user inputted text file, and returns the most common word in the file along with the number of times it appears.
+
 name = input('Enter file:')
 handle = open(name)
 
