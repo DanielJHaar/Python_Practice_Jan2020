@@ -1,3 +1,5 @@
+#Searches through an email database saved as a .txt. file, and returns a histogram of emails received by hour of day.
+
 name = input("Enter name of file:")
 handle = open(name)
 counts = dict()
